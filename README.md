@@ -6,7 +6,7 @@ adapters.
 
 ## Status
 
-Released — v0.9.x is the current supported line.
+Released - v0.9.x is the current supported line.
 
 ## Example
 
